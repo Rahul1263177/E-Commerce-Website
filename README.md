@@ -1,3 +1,4 @@
+HEAD
 # 🛒 E-Commerce Web App
 
 A full-stack e-commerce platform built with the MERN stack.  
@@ -111,4 +112,6 @@ This project is licensed under the [MIT License](./LICENSE).
 ## 🤝 Contributions
 
 Feel free to fork, submit PRs, or open an issue. Let's build something cool together!
+
+ 5e5a7a43ae6836e3738e731402108a4bfd524e35
 # E-Commerce-Website
