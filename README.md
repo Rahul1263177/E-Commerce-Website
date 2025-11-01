@@ -106,8 +106,8 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 👨‍💻 Author
 
-**Hrutav Modha**
-(_modhahrutav@gmail.com_)
+**Nooka Rahul**
+(_rahulnooka1@gmail.com_)
 
 ## 🤝 Contributions
 
